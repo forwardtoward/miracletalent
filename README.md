@@ -9,13 +9,13 @@
 
 ###
 
-<p align="left">
+<div align="left">
 - 👩‍💻 I’m @codehiro0517, a seasoned full-stack developer.<br>
 - 💖 I have extensive experience in Python.<br>
 - 👀 I’m interested in e-commerce and startup industry.<br>
 - 🌱 I’m currently trying to enhance my knowledge base on Blockchain.<br>
 - 📫 How to reach me thewise.0wmaa@slmail.me
-</p>
+</div>
 
 <!-- ###
 
