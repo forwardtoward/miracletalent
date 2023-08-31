@@ -1,14 +1,15 @@
 ###
 
-<h1 align="center"Gotcha!!!</h1>
+<h1 align="center"> Gotcha!!! </h1>
 <p>WARNING! You are looking at a miracle talent.</p>
 
+###
+
 <div align="left">
-- 👩‍💻 I’m @codehiro0517, a seasoned full-stack developer.<br>
-- 💖 I have extensive experience in Python.<br>
+- 👩‍💻 I’m little gabe, a seasoned frontend developer.<br>
+- 💖 I have extensive experience in react.<br>
 - 👀 I’m interested in e-commerce and startup industry.<br>
-- 🌱 I’m currently trying to enhance my knowledge base on Blockchain.<br>
-- 📫 How to reach me thewise.0wmaa@slmail.me
+- 🌱 I love plants.<br>
 </div>
 
 <img align="center" height="200" src="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&psig=AOvVaw1rzARzCMk3HId9ua4dhHYo&ust=1686453070602000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJi4nL_dt_8CFQAAAAAdAAAAABAX"  />
